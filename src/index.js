@@ -40,13 +40,13 @@ const index = () => {
           source={require("../assets/images/cake.jpg")} 
           style={{width: 300, height: 100, Colors: 'yellow'}}
           resizeMode={'contain'}
-         >
+        >
         </Image>
         <Image 
           source={{uri:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wedding_cake_with_pillar_supports%2C_2009.jpg/1200px-Wedding_cake_with_pillar_supports%2C_2009.jpg"}} 
           style={{width: 300,height:100,Colors: 'red'}}
           resizeMode={'stretch'}
-         >
+        >
         </Image>
         <TextInput 
           style={{borderWidth:1,padding:10,borderRadius:4,margin:20,borderRadius:30,borderColor:'blue'}} 
