@@ -44,7 +44,7 @@ const index = () => {
         </Image>
         <Image 
           source={{uri:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wedding_cake_with_pillar_supports%2C_2009.jpg/1200px-Wedding_cake_with_pillar_supports%2C_2009.jpg"}} 
-          style={{width: 300,height:100,Colors: 'red'}}
+          style={{width: "70%",height:100,Colors: 'red'}}
           resizeMode={'stretch'}
         >
         </Image>
