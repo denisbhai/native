@@ -45,12 +45,3 @@ const main = () => {
 }
 
 export default main
-
-{/* <NavigationContainer>
-        <Stack.Navigator>
-            <Stack.Screen name="Header" component={Header}/>
-            <Stack.Screen name="Product" component={Product}/>
-            <Stack.Screen name="Home" component={index}/>
-            <Stack.Screen name="Userdata" component={UserData} options={{headerShown: false}}/>
-        </Stack.Navigator>
-    </NavigationContainer> */}
