@@ -50,6 +50,13 @@ const main = () => {
 
 export default main
 
+/////////////
+/////////
+///////
+/////
+///
+//
+
 {/* <NavigationContainer>
         <Stack.Navigator>
             <Stack.Screen name="Header" component={Header}/>
