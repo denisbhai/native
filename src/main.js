@@ -6,6 +6,10 @@ import UserData from './userData';
 import Product from './component/product';
 import { View,Text, Image, ScrollView, Button } from 'react-native'
 
+//////////////
+//////////
+////
+
 const Stack = createNativeStackNavigator();
 
 const main = () => {
